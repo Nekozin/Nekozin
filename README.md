@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Estou atualmente fazendo o curso técnico de desenvolvimento de sistemas no SENAI<br>
-Faço o ensino médio no SESI<br>
-Meus pronomes são masculinos<br>
-Eu costumo anotar tudo que é importante em meu celular<br>
+Estou atualmente fazendo o curso técnico de desenvolvimento de sistemas no SENAI <br>
+Faço o ensino médio no SESI <br>
+Meus pronomes são masculinos <br>
+Eu costumo anotar tudo que é importante em meu celular <br>
 Gosto de falar sobre qualquer coisa que tenha relação a jogos, computadores ou programação.
