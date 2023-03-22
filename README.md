@@ -18,7 +18,19 @@ Here are some ideas to get you started:
 - 📗 Faço o ensino médio no SESI <br>
 - 👦🏽 Meus pronomes são masculinos <br>
 - 📱 Eu costumo anotar tudo que é importante em meu celular <br>
-- 💻 Gosto de falar sobre qualquer coisa que tenha relação a jogos, computadores ou programação.
-
+- 💻 Gosto de falar sobre qualquer coisa que tenha relação a jogos, computadores ou programação. <br>
+- 💼 Email: dsv.dimas@gmail.com
 ## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" width="70" height="70"/>
+          
+
+## Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/>
+
+## Painel
+<div> 
+<a href="https://github.com/Nekozin"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekozin&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nekozin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+</div>
