@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 🤙🏽
 
 <!--
 **Nekozin/Nekozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Estou atualmente fazendo o curso técnico de desenvolvimento de sistemas no SENAI
+Faço o ensino médio no SESI
+Meus pronomes são masculinos
+Eu costumo anotar tudo que é importante em meu celular
+Gosto de falar sobre qualquer coisa que tenha relação a jogos, computadores ou programação.
