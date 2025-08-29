@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📔 Estou atualmente fazendo o curso técnico de desenvolvimento de sistemas no SENAI <br>
-- 📗 Faço o ensino médio no SESI <br>
-- 👦🏽 Meus pronomes são masculinos <br>
-- 📱 Eu costumo anotar tudo que é importante em meu celular <br>
-- 💻 Gosto de falar sobre qualquer coisa que tenha relação a jogos, computadores ou programação. <br>
+- 📔 Estou atualmente fazendo o curso superior de desenvolvimento de sistemas no SENAI <br>
+- 💻 Posso ajudar com questões sobre html, hardware ou qualquer um dos projetos de meu perfil <br>
 - 💼 Email: dsv.dimas@gmail.com
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" width="70" height="70"/>
